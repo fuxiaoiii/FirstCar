@@ -1,0 +1,17 @@
+
+[Unit]
+Description=frps service
+After=network.target syslog.target
+Wants=network.target
+ 
+[Service]
+Type=simple
+#启动服务的命令（此处写你的frps的实际安装目录）
+ExecStart=/root/frps/frps -c /root/frps/frps.ini
+#ExecStart=/home/vulcan/frp/frps -c /home/vulcan/frp/frps.ini(例如我的是这个)
+ExecReload=/root/frps/frps -c /root/frps/frps.ini -reload
+
+[Install]
+WantedBy=multi-user.target
+
+

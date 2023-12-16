@@ -1,0 +1,96 @@
+2023/07/20 19:07:01 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 19:07:01 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 19:07:01 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 19:55:53 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 19:55:53 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 19:55:53 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:03:54 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:03:54 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:03:54 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:10:40 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:10:40 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:10:40 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:13:01 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:13:01 [I] [service.go:301] [e99b4a1113c65b1d] login to server success, get run id [e99b4a1113c65b1d]
+2023/07/20 20:13:01 [I] [proxy_manager.go:150] [e99b4a1113c65b1d] proxy added: [http]
+2023/07/20 20:13:01 [I] [control.go:172] [e99b4a1113c65b1d] [http] start proxy success
+2023/07/20 20:16:52 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:16:52 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:16:52 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:24:32 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:24:32 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:24:32 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:24:37 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:24:37 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:24:37 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:24:42 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:24:42 [I] [service.go:301] [1bc50ed3d11271d2] login to server success, get run id [1bc50ed3d11271d2]
+2023/07/20 20:24:42 [I] [proxy_manager.go:150] [1bc50ed3d11271d2] proxy added: [http]
+2023/07/20 20:24:42 [I] [control.go:172] [1bc50ed3d11271d2] [http] start proxy success
+2023/07/20 20:25:40 [E] [proxy.go:196] [1bc50ed3d11271d2] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 20:28:10 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:28:10 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:28:10 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:28:15 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:28:15 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:28:15 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:28:20 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:28:21 [I] [service.go:301] [85a3887f0c2d5a5c] login to server success, get run id [85a3887f0c2d5a5c]
+2023/07/20 20:28:21 [I] [proxy_manager.go:150] [85a3887f0c2d5a5c] proxy added: [http]
+2023/07/20 20:28:21 [I] [control.go:172] [85a3887f0c2d5a5c] [http] start proxy success
+2023/07/20 20:33:55 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:33:55 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:33:55 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:39:52 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:39:52 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:39:52 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:39:58 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:39:58 [W] [service.go:133] login to server failed: dial tcp 121.36.87.145:7000: connect: network is unreachable
+2023/07/20 20:39:58 [I] [root.go:236] frpc service for config file [/home/fuxiaoiii/frp/frpc.ini] stopped
+2023/07/20 20:40:03 [I] [root.go:220] start frpc service for config file [/home/fuxiaoiii/frp/frpc.ini]
+2023/07/20 20:40:03 [I] [service.go:301] [32e1e5bc422987fd] login to server success, get run id [32e1e5bc422987fd]
+2023/07/20 20:40:03 [I] [proxy_manager.go:150] [32e1e5bc422987fd] proxy added: [http]
+2023/07/20 20:40:03 [I] [control.go:172] [32e1e5bc422987fd] [http] start proxy success
+2023/07/20 20:42:53 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:20:47 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:20:47 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:20:48 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:20:48 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:20:48 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:21:10 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:21:10 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:21:10 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:21:11 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:21:11 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:21:30 [E] [proxy.go:196] [32e1e5bc422987fd] [http] connect to local service [127.0.0.1:8080] error: dial tcp 127.0.0.1:8080: connect: connection refused
+2023/07/20 21:36:42 [I] [control.go:252] [32e1e5bc422987fd] control writer is closing
+2023/07/20 21:36:43 [I] [visitor_manager.go:77] [32e1e5bc422987fd] gracefully shutdown visitor manager
+2023/07/20 21:36:43 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:36:43 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: connect: connection refused, wait 1s for another retry
+2023/07/20 21:36:44 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:36:44 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: connect: connection refused, wait 2s for another retry
+2023/07/20 21:36:46 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:36:56 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 4s for another retry
+2023/07/20 21:37:00 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:37:10 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 8s for another retry
+2023/07/20 21:37:18 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:37:28 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 16s for another retry
+2023/07/20 21:37:45 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:37:55 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 20s for another retry
+2023/07/20 21:38:16 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:38:16 [I] [service.go:301] [32e1e5bc422987fd] login to server success, get run id [32e1e5bc422987fd]
+2023/07/20 21:38:16 [I] [proxy_manager.go:150] [32e1e5bc422987fd] proxy added: [http]
+2023/07/20 21:38:16 [I] [control.go:172] [32e1e5bc422987fd] [http] start proxy success
+2023/07/20 21:44:11 [I] [control.go:252] [32e1e5bc422987fd] control writer is closing
+2023/07/20 21:44:11 [I] [visitor_manager.go:77] [32e1e5bc422987fd] gracefully shutdown visitor manager
+2023/07/20 21:44:12 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:44:12 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: connect: connection refused, wait 1s for another retry
+2023/07/20 21:44:13 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:44:23 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 2s for another retry
+2023/07/20 21:44:25 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:44:35 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 4s for another retry
+2023/07/20 21:44:39 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:44:49 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 8s for another retry
+2023/07/20 21:44:56 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
+2023/07/20 21:45:06 [W] [service.go:217] [32e1e5bc422987fd] reconnect to server error: dial tcp 121.36.87.145:7000: i/o timeout, wait 16s for another retry
+2023/07/20 21:45:21 [I] [service.go:214] [32e1e5bc422987fd] try to reconnect to server...
